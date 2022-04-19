@@ -1,0 +1,17 @@
+com/javatpoint/controller/DataManagerController.class
+com/javatpoint/model/Data_Store_Details.class
+com/javatpoint/repository/DataManagerRepository.class
+com/javatpoint/service/StudentService.class
+com/javatpoint/model/Data_Entity_Details.class
+com/javatpoint/model/Post.class
+com/javatpoint/model/Dm_Config.class
+com/javatpoint/model/Student.class
+com/javatpoint/service/DataManagerService.class
+com/javatpoint/controller/StudentController.class
+com/javatpoint/SpringBootH2DatabaseExampleApplication.class
+com/javatpoint/model/Comment.class
+com/javatpoint/repository/CommentRepository.class
+com/javatpoint/repository/DataStoreDetailsRepository.class
+com/javatpoint/repository/PostRepository.class
+com/javatpoint/repository/StudentRepository.class
+com/javatpoint/model/Ext_Engagement_Details.class
